@@ -1,6 +1,7 @@
--Hi, I’m @Pikasso1
--I’m interested in beginner fullstack programming 
--I’m currently learning WPF meaning .net C# and XAML
+Welcome to an amateur programmers sandbox. 
+
+Here you can see some of my project in VBA, Angular, WPF, Winforms and C#
+Half my code are hobby/school projects and the rest are workflow optimization for my colleages.
 
 <!---
 Pikasso1/Pikasso1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
